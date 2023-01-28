@@ -7,8 +7,8 @@ Here are some ideas to get you started:
 <!-- - 🔭 -->
 - 🌱 I’m currently learning Python and Pandas.
 - 👯 I’m looking to collaborate on hackathon and club projects at UC Riverside.
+- ⚡ Fun fact: I like pink turtles.
 <!-- 🤔 -->
 <!-- 💬 -->
 <!-- - 📫 How to reach me: -->
 <!-- 😄 -->
-- ⚡ Fun fact: I like pink turtles.
