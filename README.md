@@ -5,7 +5,7 @@
 Here are some ideas to get you started:
 
 <!-- - 🔭 -->
-- 🌱 I’m currently learning web dev and robotics stuff!
+- 🌱 I’m currently learning data science, automation and web dev!
 - 👯 I’m looking to collaborate on hackathon and club projects at UC Riverside.
 - ⚡ Fun fact: I like pink turtles.
 <!-- 🤔 -->
