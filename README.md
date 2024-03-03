@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 <!-- - 🔭 -->
-- 🌱 I’m currently learning data science and web dev!
-- 👯 I’m looking to collaborate on club projects at UC Riverside and hackathons in California and on Devpost.
-- ⚡ Fun fact: I like pink turtles.
+- 🌱 I’m passionate about the applications of data science, artificial intelligence, and machine learning to benefit people. 
+- 👯 I’m always up for hackathons in California and on Devpost.
+- ⚡ Fun fact: I participated in an online hackathon where I had 6 a.m. meetings with my team scattered across the U.S. (me), Germany, India, Bangladesh, and China!
 <!-- 🤔 -->
 <!-- 💬 -->
 <!-- - 📫 How to reach me: -->
